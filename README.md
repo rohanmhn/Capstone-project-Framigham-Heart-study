@@ -5,5 +5,9 @@ Create a segmentation of the patients based on the demographic, behavioural and 
 Predict the probability of a patient suffering a coronary heart disease in the next 10 years
 Identify the most important factors that influence heart disease
 Come up with recommendations for
-o Preventing / reducing chances of getting a heart disease
-o Extrapolated applications of the model you build and its findings
+a)Preventing / reducing chances of getting a heart disease
+b)Extrapolated applications of the model you build and its findings
+
+Logistic regression and Random forest came closest to achieve desired accuracy
+
+Besides the 5 models initially chosen, other few models were also attempted but results of Log regression were generally better
